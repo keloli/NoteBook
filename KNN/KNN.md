@@ -1,5 +1,5 @@
 # 参考资料
-http://blog.csdn.net/sinat_35512245/article/details/55051306
+http://blog.csdn.net/sinat_35512245/article/details/55051306  
 《统计学习方法》（李航）第三章
 
 # 算法思路
